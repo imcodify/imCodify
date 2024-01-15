@@ -1,6 +1,6 @@
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-# Hi there 👋, Imran
+# Imran
 
 # *Design and Development*
 

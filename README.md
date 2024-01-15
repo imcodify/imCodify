@@ -1,5 +1,5 @@
 ### Hi there 👋, Imran
-#### Design and Development
+#### **Design and Development**
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Imran from Pakistan, and we are a team of Designer and Developer. We really enjoy learning languages and frameworks like React and React Native, as well as work in CMS like WordPress, Webflow, Wix, Shopify and Squarespace. We also enjoy wireframing, ui, ux, and design in general

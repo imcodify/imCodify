@@ -2,9 +2,12 @@
 #### **Design and Development**
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Imran from Pakistan, and we are a team of Designer and Developer. We really enjoy learning languages and frameworks like React and React Native, as well as work in CMS like WordPress, Webflow, Wix, Shopify and Squarespace. We also enjoy wireframing, ui, ux, and design in general
+I'm Imran from Pakistan, and we are a team of Designer and Developer. We really enjoy learning languages and frameworks like React and React Native, as well as work in CMS like WordPress, Webflow, Wix, Shopify and Squarespace. We also enjoy wireframing, ui, ux, and design in general.
 
-Skills: HTML / CSS / JS / React / React Native
+##Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on my own Agency. 
 

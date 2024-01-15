@@ -2,8 +2,6 @@
 
 # Imran Ahmed
 
-# 💫 About Me:
-
 🔭I'm Imran from Pakistan, and we are a team of Designer and Developer. We really enjoy learning languages and frameworks like React and React Native, as well as work in CMS like WordPress, Webflow, Wix, Shopify and Squarespace. We also enjoy wireframing, ui, ux, and design in general.
 
 ## Skills and Experience
@@ -13,9 +11,6 @@
 * 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on my own Agency. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imCodify)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Emran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emran_manii1/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/emran) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emran_manii1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imran-ahmed4/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Hamza_Khan_2312) 

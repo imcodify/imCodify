@@ -2,7 +2,7 @@
 
 # Imran Ahmed
 
-I'm Imran from Pakistan, and we are a team of Designer and Developer. We really enjoy learning languages and frameworks like React and React Native, as well as work in CMS like WordPress, Webflow, Wix, Shopify and Squarespace. We also enjoy wireframing, ui, ux, and design in general.
+_I'm Imran from Pakistan, and we are a team of Designer and Developer. We really enjoy learning languages and frameworks like React and React Native, as well as work in CMS like WordPress, Webflow, Wix, Shopify and Squarespace. We also enjoy wireframing, ui, ux, and design in general._
 
 ##Skills and Experience
 * ⚛ React
